@@ -11,10 +11,16 @@ public abstract class Figure{
     public void Set(float a){
         edge = a;
     }
+    public float Get(){
+        return(edge);
+    }
     public abstract float Perimeter();
     public abstract float Area();
     public abstract float HalfArea();
     public abstract float HalfPerimeter();
+    public abstract bool IsEqual(Figure param);
+    public abstract bool IsBigger(Figure param);
+    public abstract bool IsSmaller(Figure param);
 
 
 }

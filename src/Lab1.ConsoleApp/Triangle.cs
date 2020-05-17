@@ -25,6 +25,15 @@ public class Triangle : Figure{
     public override float HalfPerimeter(){
         return(this.Perimeter() / 2);
     }
+    public override bool IsEqual(Figure x){
+        return(x.Get() == edge);
+    }
+    public override bool IsBigger(Figure param){
+        return (param.Get() > edge);
+    }
+    public override bool IsSmaller(Figure param){
+        return (param.Get() < edge);
+    }
 
  }
 }
