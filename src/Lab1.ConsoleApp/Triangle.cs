@@ -22,6 +22,9 @@ public class Triangle : Figure{
     public override float HalfArea(){
         return (this.Area() / 2);
     }
+    public override float HalfPerimeter(){
+        return(this.Perimeter() / 2);
+    }
 
  }
 }

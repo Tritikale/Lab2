@@ -14,6 +14,7 @@ public abstract class Figure{
     public abstract float Perimeter();
     public abstract float Area();
     public abstract float HalfArea();
+    public abstract float HalfPerimeter();
 
 
 }
