@@ -24,5 +24,8 @@ public class Circle : Figure{
     public override float HalfPerimeter(){
         return(this.Perimeter() / 2);
     }
+    public override bool IsEqual(Figure x){
+        return(x.Get() == edge);
+    }
 }
 }
