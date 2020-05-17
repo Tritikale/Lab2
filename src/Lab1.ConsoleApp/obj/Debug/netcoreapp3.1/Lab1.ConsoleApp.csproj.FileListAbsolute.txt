@@ -1,0 +1,11 @@
+C:\Users\aleks\Desktop\Lab1\src\Lab1.ConsoleApp\bin\Debug\netcoreapp3.1\Lab1.ConsoleApp.exe
+C:\Users\aleks\Desktop\Lab1\src\Lab1.ConsoleApp\bin\Debug\netcoreapp3.1\Lab1.ConsoleApp.deps.json
+C:\Users\aleks\Desktop\Lab1\src\Lab1.ConsoleApp\bin\Debug\netcoreapp3.1\Lab1.ConsoleApp.runtimeconfig.json
+C:\Users\aleks\Desktop\Lab1\src\Lab1.ConsoleApp\bin\Debug\netcoreapp3.1\Lab1.ConsoleApp.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Lab1\src\Lab1.ConsoleApp\bin\Debug\netcoreapp3.1\Lab1.ConsoleApp.dll
+C:\Users\aleks\Desktop\Lab1\src\Lab1.ConsoleApp\bin\Debug\netcoreapp3.1\Lab1.ConsoleApp.pdb
+C:\Users\aleks\Desktop\Lab1\src\Lab1.ConsoleApp\obj\Debug\netcoreapp3.1\Lab1.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Lab1\src\Lab1.ConsoleApp\obj\Debug\netcoreapp3.1\Lab1.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Lab1\src\Lab1.ConsoleApp\obj\Debug\netcoreapp3.1\Lab1.ConsoleApp.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Lab1\src\Lab1.ConsoleApp\obj\Debug\netcoreapp3.1\Lab1.ConsoleApp.dll
+C:\Users\aleks\Desktop\Lab1\src\Lab1.ConsoleApp\obj\Debug\netcoreapp3.1\Lab1.ConsoleApp.pdb
