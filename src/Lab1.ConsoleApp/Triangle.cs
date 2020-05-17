@@ -28,6 +28,9 @@ public class Triangle : Figure{
     public override bool IsEqual(Figure x){
         return(x.Get() == edge);
     }
+    public override bool IsBigger(Figure param){
+        return (param.Get() > edge);
+    }
 
  }
 }

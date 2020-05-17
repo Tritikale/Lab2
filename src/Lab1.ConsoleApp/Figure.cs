@@ -19,6 +19,7 @@ public abstract class Figure{
     public abstract float HalfArea();
     public abstract float HalfPerimeter();
     public abstract bool IsEqual(Figure param);
+    public abstract bool IsBigger(Figure param);
 
 
 }
