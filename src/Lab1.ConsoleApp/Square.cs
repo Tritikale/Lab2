@@ -30,6 +30,9 @@ public class Square : Figure{
     public override bool IsBigger(Figure param){
         return (param.Get() > edge);
     }
+    public override bool IsSmaller(Figure param){
+        return (param.Get() < edge);
+    }
 
 }
 }
