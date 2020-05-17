@@ -18,6 +18,9 @@ public class Square : Figure{
     public override float Perimeter(){
         return (edge * 4f);
     }
+    public override float HalfArea(){
+        return (this.Area() / 2);
+    }
 
 }
 }
