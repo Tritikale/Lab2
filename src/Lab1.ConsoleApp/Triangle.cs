@@ -7,6 +7,7 @@ public class Triangle : Figure{
     /// Calculates Area
     /// </summary>
     /// <returns></returns>
+    
     public override float Area(){
         return (edge * edge * 1.73f / 4f);
     }
@@ -17,6 +18,12 @@ public class Triangle : Figure{
     /// <returns></returns> 
     public override float Perimeter(){
         return (edge * 3f);
+    }
+    public override float HalfArea(){
+        return (this.Area() / 2);
+    }
+    public override float HalfPerimeter(){
+        return(this.Perimeter() / 2);
     }
 
  }
