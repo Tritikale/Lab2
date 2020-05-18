@@ -33,5 +33,6 @@ public class Circle : Figure{
     public override bool IsSmaller(Figure param){
         return (param.Get() < edge);
     }
+    //comment
 }
 }
